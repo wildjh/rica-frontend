@@ -1,0 +1,26 @@
+body {
+  background-color: #fafafa;
+  color: #1a1a1a;
+}
+
+section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+form div {
+  margin-bottom: 0.75rem;
+}
+
+input {
+  width: 100%;
+  padding: 0.4rem;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
